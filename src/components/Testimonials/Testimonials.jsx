@@ -10,10 +10,7 @@ function Testimonials() {
           <p>
             อาจารย์มหาวิทยาลัยพะเยา ประจำรายวิชาเว็ปแอปพลิเคชัน
           </p>
-          <img
-            src="https://images.unsplash.com/photo-1552053831-71594a27632d?q=80&w=1262&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
-            alt=""
-          />
+          <img src="image/aj.png" alt=""/>
           <h4>นายธรรมรัตน์ ธรรมมา</h4>
           <p className={styles.bio}>Web Developer</p>
         </div>
